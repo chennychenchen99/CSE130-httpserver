@@ -1,6 +1,6 @@
 # httpserver
-Simulates a multi-threaded HTTP server with implementation of PUT/GET requests
-and redundancy.
+The goals for this assignment were to modify the single-threaded HTTP server in asgn1 and implement multi-threading and redundancy. 
+Synchronization techniques had to be used to service multiple requests at once and to ensure that different copies of the same file are consistent.
 
 ## Usage
 
