@@ -1,5 +1,6 @@
 # httpserver
-Simulates an HTTP server with implementation of PUT/GET requests, backup, recovery, and list.
+The goals for this assignment were to modify the HTTP server in any previous assignment and implement backups and recovery. 
+The HTTP server should have the ability to store a backup of all the files in the server and recover to an earlier backup. 
 
 ## Usage
 
